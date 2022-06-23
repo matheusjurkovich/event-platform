@@ -9,4 +9,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Vite
 - Apollo
 
-Feito no Ignite Lab by Rocketseat
+Feito no Ignite Lab @Rocketseat
