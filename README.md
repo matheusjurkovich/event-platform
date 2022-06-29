@@ -2,7 +2,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- React
+- ReactJs
 - Tailwind
 - TypeScript
 - GraphQL/CMS
